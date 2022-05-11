@@ -59,8 +59,8 @@ export default function Home({
         ))}
       </Marquee>
       <Hero
-        headline=" Dessert dragée halvah croissant."
-        description="Cupcake ipsum dolor sit amet lemon drops pastry cotton candy. Sweet carrot cake macaroon bonbon croissant fruitcake jujubes macaroon oat cake. Soufflé bonbon caramels jelly beans. Tiramisu sweet roll cheesecake pie carrot cake. "
+        headline="Yeet the future with S Tier swagger and community support."
+        description="Our mission at Yeetum is to enable higher and deeper level information relationships with services & eco-system to develop talent, build community, and identify and execute on data-driven opportunity."
       />
       <Grid layout="B" variant="filled">
         {products.slice(0, 3).map((product: any, i: number) => (
