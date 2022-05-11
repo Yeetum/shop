@@ -1,19 +1,19 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Yeetum Merch Store",
+  "titleTemplate": "%s - Yeetum Merch Store",
+  "description": "Yeetum Merch Store - https://shop.yeetum.com",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Yeetum Merch Store",
+    "description": "Yeetum Merch Store - https://shop.yeetum.com",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://shop.yeetum.com",
+    "site_name": "Yeetum Merch Store",
     "images": [
       {
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": "Yeetum Merch Store"
       }
     ]
   },
